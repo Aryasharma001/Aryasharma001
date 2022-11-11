@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 - ✏ Passionate about Competative Programming 
 - :mailbox:Mail Me : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arya.sharma.200603@gmail.com)
 
- <h2 align="left">
+ <h2 align="center">
   Github Statistics
 </h2>
 
