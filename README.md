@@ -35,9 +35,11 @@ You can click the Preview link to take a look at your changes.
   Github Statistics
 </h2>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AryaSharma001&theme=radical" alt="GitHub Streak" width="80%"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AryaSharma001&theme=radical" align="center" alt="GitHub Streak" width="80%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSharma001&theme=radical" alt="GitHub Streak" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AryaSharma001&count_private=true&theme=radical" align="center" alt="GitHub Streak" width="80%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSharma001&theme=radical" align="center" alt="GitHub Streak" width="80%"/>
 
 
 
