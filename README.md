@@ -36,11 +36,11 @@ You can click the Preview link to take a look at your changes.
 </h2>
 
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AryaSharma001&theme=radical" alt="GitHub Streak" width="80%"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AryaSharma001&theme=radical" alt="GitHub Streak" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AryaSharma001&count_private=true&theme=radical" alt="GitHub Streak" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AryaSharma001&count_private=true&theme=radical" alt="GitHub Streak" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSharma001&theme=radical&layout=compact" alt="GitHub Streak" width="80%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSharma001&theme=radical&layout=compact" alt="GitHub Streak" width="60%"/>
 </p>
 
 
