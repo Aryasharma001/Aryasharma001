@@ -1,5 +1,5 @@
 - <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" height="100" ,width="100"/>
+  <img src="https://media.giphy.com/media/liRTgRfK9XljrH2EFt/giphy.gif" height="150" ,width="150"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arya-sharma001/">
@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" width="600" height="300"/>
 </div>
 
 <!---
