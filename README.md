@@ -29,7 +29,9 @@ You can click the Preview link to take a look at your changes.
 - 👀 Data Science and Machine Learning enthusiast
 - 🏡 Based in India 🇮🇳
 - ✏ Passionate about Competative Programming 
-- :mailbox:Mail Me : [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arya.sharma.200603@gmail.com)
+- 📧 arya.sharma.200603@gmail.com
+- 📝 CV:  <a href="https://drive.google.com/file/d/1UcES9pn0lKv4j-eA5YMTiaAMYceKtjM3/view?usp=sharing" >View Resume</a><br>
+
 - ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_aryasharma20_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-sharma001/) 
 - # 💻 Tech Stack:
